@@ -22,34 +22,11 @@ function AboutMe() {
         <div className="text-white space-y-2">
           <div>Hey👋 Thank you visiting here, Hope you find peace☮️ here.</div>
           <div>
-            I'm <span className="text-cyan-400">Suvendu</span>, a software
-            Engineer, with a passion for developing apps.
+            I'm <span className="text-cyan-400">Ardhendu</span>, a Fullstack Developer, with a passion for developing web apps.
           </div>
           <div>
             This app I created with a intention of learning Frontend
             technologies, and sometimes I use it while coding🧑‍💻.
-          </div>
-          <div>
-            For any issues🐛 or feature-request🚀 please create a issue{" "}
-            <a href={GITHUB_REPO_URL}>
-              <span className="underline underline-offset-4">here</span>.
-            </a>
-          </div>
-          <div>You are still Here😲 !!</div>
-          <div>
-            Now you owe me a{" "}
-            <span className="font-semibold text-teal-400">Hi</span>🙌
-          </div>
-          <div className="flex space-x-2">
-            <a href={PORTFOLIO_URL} target="_blank" rel="noreferrer">
-              <TbWorldWww size={25}></TbWorldWww>
-            </a>
-            <a href={TWITTER_URL} target="_blank" rel="noreferrer">
-              <AiFillTwitterSquare size={25}></AiFillTwitterSquare>
-            </a>
-            <a href={LINKEDIN_URL} target="_blank" rel="noreferrer">
-              <AiFillLinkedin size={25}></AiFillLinkedin>
-            </a>
           </div>
         </div>
       </div>
