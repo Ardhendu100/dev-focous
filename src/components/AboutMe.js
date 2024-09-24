@@ -1,13 +1,4 @@
 import React from "react";
-import { AiFillTwitterSquare, AiFillLinkedin } from "react-icons/ai";
-import { TbWorldWww } from "react-icons/tb";
-
-import {
-  GITHUB_REPO_URL,
-  LINKEDIN_URL,
-  PORTFOLIO_URL,
-  TWITTER_URL,
-} from "../utils/Constants";
 import { useSelector } from "react-redux";
 
 function AboutMe() {
